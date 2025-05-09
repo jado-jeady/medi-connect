@@ -1,2 +1,0 @@
-# medi-connect
-Android app 
